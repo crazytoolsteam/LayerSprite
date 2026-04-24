@@ -1,5 +1,5 @@
 # PhotoQuill
-PhotoQuill is your free online photo editor. Open files with our PSD viewer and perform professional photo editing in your browser without any installation!
+PhotoQuill is your free online photo editor with AI Generate. Open files with our PSD viewer and perform professional photo editing in your browser without any installation!
 
 site:
 https://photoquill.com
